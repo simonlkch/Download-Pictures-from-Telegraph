@@ -1,8 +1,8 @@
 **中文介绍：[README.zh.md](README.zh.md)**
 
 # Download Pictures from Telegraph
-A Tampermonkey script to download pictures in a post of telegra.ph
-Save Pic to Zip file
+- A Tampermonkey script to download pictures in a post of telegra.ph
+- Save Pic to Zip file
 
 ## Download:
 - Go to [Greasy Fork](https://greasyfork.org/zh-CN/scripts/422130-download-pictures-from-telegraph).
